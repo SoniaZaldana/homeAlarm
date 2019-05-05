@@ -1,0 +1,64 @@
+/h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/Altera_UP_PS2_Command_Out.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/Altera_UP_PS2_Command_Out.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_PS2_Command_Out
+
+Top level modules:
+	Altera_UP_PS2_Command_Out
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/loading_module.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/loading_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module load_module
+-- Compiling module control_load_digits
+-- Compiling module datapath_load_digits
+
+Top level modules:
+	load_module
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/validation.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/validation.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module validation
+
+Top level modules:
+	validation
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Mouse_Controller.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Mouse_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mouse_tracker
+-- Compiling module mouse_interface_test
+-- Compiling module hex_decoder
+
+Top level modules:
+	mouse_interface_test
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Keyboard_Controller.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Keyboard_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module keyboard_tracker
+-- Compiling module keyboard_interface_test_mode0
+-- Compiling module keyboard_interface_test_mode1
+
+Top level modules:
+	keyboard_interface_test_mode0
+	keyboard_interface_test_mode1
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Controller.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/PS2_Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PS2_Controller
+
+Top level modules:
+	PS2_Controller
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/Altera_UP_PS2_Data_In.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/Altera_UP_PS2_Data_In.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Altera_UP_PS2_Data_In
+
+Top level modules:
+	Altera_UP_PS2_Data_In
+
+} {} {}} /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/convert_keyboard_signals.v {1 {vlog -work work -stats=none /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/convert_keyboard_signals.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module convert_keyboard_signals
+
+Top level modules:
+	convert_keyboard_signals
+
+} {} {}}

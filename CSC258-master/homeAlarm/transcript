@@ -1,0 +1,89 @@
+project open /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/homeAlarm
+# Loading project homeAlarm
+project open /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/homeAlarm
+project open /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm
+do testmilestone1.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:08:58 on Mar 20,2019
+# vlog -reportprogress 300 -timescale 1ns/1ns milestone1nokboard.v 
+# -- Compiling module milestone1
+# -- Compiling module control_main
+# ** Warning: milestone1nokboard.v(163): (vlog-2182) 'num_attempts' might be read before written in always_comb or always @* block.
+# -- Compiling module datapath_main
+# 
+# Top level modules:
+# 	milestone1
+# 	datapath_main
+# End time: 17:08:58 on Mar 20,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vsim milestone1 
+# Start time: 17:08:58 on Mar 20,2019
+# Loading work.milestone1
+# Loading work.convert_keyboard_signals
+# Loading work.control_main
+# Loading work.load_module
+# Loading work.control_load_digits
+# Loading work.datapath_load_digits
+# Loading work.validation
+# ** Warning: (vsim-3017) milestone1nokboard.v(63): [TFMPC] - Too few port connections. Expected 14, found 13.
+#    Time: 0 ns  Iteration: 0  Instance: /milestone1/cks_0 File: /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/convert_keyboard_signals.v
+# ** Error: (vsim-3063) milestone1nokboard.v(63): Port 'digit_value' not found in the connected module (13th connection).
+#    Time: 0 ns  Iteration: 0  Instance: /milestone1/cks_0 File: /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/convert_keyboard_signals.v
+# ** Warning: (vsim-3722) milestone1nokboard.v(63): [TFMPC] - Missing connection for port 'resetn'.
+# ** Warning: (vsim-3722) milestone1nokboard.v(63): [TFMPC] - Missing connection for port 'digit'.
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./testmilestone1.do PAUSED at line 2
+do testmilestone1.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:11:01 on Mar 20,2019
+# vlog -reportprogress 300 -timescale 1ns/1ns milestone1nokboard.v 
+# -- Compiling module milestone1
+# -- Compiling module control_main
+# ** Warning: milestone1nokboard.v(163): (vlog-2182) 'num_attempts' might be read before written in always_comb or always @* block.
+# -- Compiling module datapath_main
+# 
+# Top level modules:
+# 	milestone1
+# 	datapath_main
+# End time: 17:11:02 on Mar 20,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# vsim milestone1 
+# Start time: 17:08:58 on Mar 20,2019
+# Loading work.milestone1
+# Loading work.convert_keyboard_signals
+# Loading work.control_main
+# Loading work.load_module
+# Loading work.control_load_digits
+# Loading work.datapath_load_digits
+# Loading work.validation
+# ** Warning: (vsim-3017) milestone1nokboard.v(63): [TFMPC] - Too few port connections. Expected 14, found 13.
+#    Time: 0 ns  Iteration: 0  Instance: /milestone1/cks_0 File: /h/u15/c8/00/stroncea/258Lab/github/CSC258/homeAlarm/convert_keyboard_signals.v
+# ** Warning: (vsim-3722) milestone1nokboard.v(63): [TFMPC] - Missing connection for port 'resetn'.
+# Compile of milestone1nokboard.v was successful with warnings.
+do testmilestone1.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:12:26 on Mar 20,2019
+# vlog -reportprogress 300 -timescale 1ns/1ns milestone1nokboard.v 
+# -- Compiling module milestone1
+# -- Compiling module control_main
+# ** Warning: milestone1nokboard.v(164): (vlog-2182) 'num_attempts' might be read before written in always_comb or always @* block.
+# -- Compiling module datapath_main
+# 
+# Top level modules:
+# 	milestone1
+# 	datapath_main
+# End time: 17:12:27 on Mar 20,2019, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 1
+# End time: 17:12:27 on Mar 20,2019, Elapsed time: 0:03:29
+# Errors: 1, Warnings: 6
+# vsim milestone1 
+# Start time: 17:12:27 on Mar 20,2019
+# Loading work.milestone1
+# Loading work.convert_keyboard_signals
+# Loading work.control_main
+# Loading work.load_module
+# Loading work.control_load_digits
+# Loading work.datapath_load_digits
+# Loading work.validation
